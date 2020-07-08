@@ -6,14 +6,11 @@ recomendations based on this analysis are derived. This project has been created
 ## Datasets
 The dataset 'ab_data.csv' and 'countires.csv' have been downloaded the udacity page ('https://www.udacity.com/').
 
-## Installation
-- Jupyter Notebook
-#### Dependencies
+## Dependencies
 Execution of the code requires:
-- Python
-- Numpy
-- Pandas
-- Matplotlib
-- Random
-- Statsmodels.api
-
+- Jupyter Notebook 6.0.3
+- Python 3.7.6
+- Numpy v1.19
+- Pandas 1.0.5
+- Matplotlib 3.2.2
+- Statsmodels 0.11.1
